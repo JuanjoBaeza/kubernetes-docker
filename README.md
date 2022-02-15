@@ -4,8 +4,6 @@
 
 # Pelado Nerd repo
 
-<img src="./assets/peladonerd.png" width="100"/>
-
 Este es un repo donde subo todo el código que uso para los videos de mi [canal en youtube](https://www.youtube.com/channel/UCrBzBOMcUVV8ryyAU_c6P5g). Voy a tratar de mantenerlo actualizado y con toda la documentación que pueda, pero no prometo nada.
 
 ## Contribuciones
